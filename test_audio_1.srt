@@ -1,0 +1,152 @@
+1
+00:00:00,000 --> 00:00:08,000
+I'm interested and I think everybody is interested in the three laws of robotics. Could you explain those?
+
+2
+00:00:08,000 --> 00:00:24,000
+Well, back in 1939, I began writing robot stories. And by the time I'd written two and three, there was a pattern in these stories which John Campbell, the editor of Astounding Science Fiction and my literary father, pointed out to me.
+
+3
+00:00:24,000 --> 00:00:29,000
+He said, I was having my robots behave as though they were guided by three laws.
+
+4
+00:00:29,000 --> 00:00:36,000
+The first law was that a robot couldn't hurt a human being or through inaction allow a human being to come to harm.
+
+5
+00:00:36,000 --> 00:00:44,000
+The second law was that a robot had to obey orders given it by human beings provided that didn't conflict with the first law.
+
+6
+00:00:44,000 --> 00:00:52,000
+And the third law was that a robot had to protect its own existence except where that would conflict with the first two laws.
+
+7
+00:00:52,000 --> 00:01:05,000
+And after that, I always used them and the stories evolved out of those three laws, out of the mutual contradictions, out of the ambivalences, the incongruities and so on.
+
+8
+00:01:05,000 --> 00:01:16,000
+The interesting thing is that scientists say that when robots are built that they may be built according to these laws and also that almost all science fiction writers have adopted them as well in their stories.
+
+9
+00:01:16,000 --> 00:01:22,000
+That's true about the science fiction writers adopting them. They are not taken for granted. No writer actually quotes them except myself.
+
+10
+00:01:22,000 --> 00:01:27,000
+But the readers are so used to it now that they know it and they take it for granted.
+
+11
+00:01:27,000 --> 00:01:33,000
+And somebody writing in an architectural journal pointed out that these laws hold for tools generally.
+
+12
+00:01:33,000 --> 00:01:40,000
+Number one, a tool must be safe to use. And two, provided it is safe to use, it's got to do what you want it to do.
+
+13
+00:01:40,000 --> 00:01:44,000
+And third, provided it is safe to use and it does what you want to, it's got to last.
+
+14
+00:01:44,000 --> 00:01:49,000
+But could your three laws of robotics be overloaded on the side of humanism?
+
+15
+00:01:49,000 --> 00:01:55,000
+There are those who believe that the machines we create are going to be Frankenstein's.
+
+16
+00:01:55,000 --> 00:02:03,000
+Well, of course, the three laws of robotics were originally invented by me in order to avoid the Frankenstein motive.
+
+17
+00:02:03,000 --> 00:02:11,000
+Because before I wrote my stories, most robot stories were filled with this Frankenstein bit about the robot destroying its creator.
+
+18
+00:02:11,000 --> 00:02:14,000
+There are some things that men were not meant to know.
+
+19
+00:02:14,000 --> 00:02:25,000
+However, having worked with the three laws for now for 35 years, practically, I was asked to write a robot story to end all robot stories.
+
+20
+00:02:25,000 --> 00:02:33,000
+So I wrote one in which robots became so intelligent that by any reasonable definition, they define themselves as human beings, you see.
+
+21
+00:02:33,000 --> 00:02:39,000
+So that now the three laws of robotics became the three laws of humanics.
+
+22
+00:02:39,000 --> 00:02:42,000
+And we were right back to the Frankenstein motif.
+
+23
+00:02:42,000 --> 00:02:47,000
+I received letters from readers saying, does this mean you're never going to write any more robot stories?
+
+24
+00:02:47,000 --> 00:02:51,000
+And I wrote back saying, don't worry, if I think of a good robot story, I'll write it anyway.
+
+25
+00:03:09,000 --> 00:03:11,000
+You know, I'm not a robot.
+
+26
+00:03:11,000 --> 00:03:13,000
+I'm a robot.
+
+27
+00:03:13,000 --> 00:03:15,000
+I'm a robot.
+
+28
+00:03:15,000 --> 00:03:17,000
+I'm a robot.
+
+29
+00:03:17,000 --> 00:03:19,000
+I'm a robot.
+
+30
+00:03:19,000 --> 00:03:21,000
+I'm a robot.
+
+31
+00:03:21,000 --> 00:03:23,000
+I'm a robot.
+
+32
+00:03:23,000 --> 00:03:25,000
+I'm a robot.
+
+33
+00:03:25,000 --> 00:03:27,000
+I'm a robot.
+
+34
+00:03:27,000 --> 00:03:29,000
+I'm a robot.
+
+35
+00:03:29,000 --> 00:03:31,000
+I'm a robot.
+
+36
+00:03:31,000 --> 00:03:33,000
+I'm a robot.
+
+37
+00:03:33,000 --> 00:03:35,000
+I'm a robot.
+
+38
+00:03:35,000 --> 00:03:37,000
+I'm a robot.
+
